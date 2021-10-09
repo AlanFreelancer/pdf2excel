@@ -1,0 +1,14 @@
+integrated Subcontractor Resource Planning (iSRP)
+                                                             Job Attendance Detailed Report for Job Card
+BU:                        KS
+Site:                      ALL
+Printed By:                SEANET MARINE SERVICES PTE LTD SERVICES
+PTE LTDDate Period:               01/09/2021 - 28/09/2021
+Sub Contractor:            SEANET MARINE SERVICES PTE LTD
+PROJECT NAME               T21667 GIMI                                                                                                                 
+JOB CARD NO                G/00004-B-6-O-605260-8                                JOB CARD TRADE                   POWERTOOL & PAINT
+JOB CARD START DATE        16/03/2021                                            JOB CARD EXPIRY DATE             31/12/2021                           
+CONTRACT NO                                                                      OFFICER IN-CHARGE                Buddika
+DESCRIPTION:               To carry out engine room 1st,2nd,3rd,4th and tank top burn mark electrical and piping support power                         
+                           tooling and painting
+KS-DAY SHIFT A -wef 200801

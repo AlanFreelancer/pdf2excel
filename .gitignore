@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.pyc
+logs/
+*.zip
+_gui_setting.yaml

@@ -1,0 +1,674 @@
+integrated Subcontractor Resource Planning (iSRP)
+                                                             Job Attendance Detailed Report for Job Card
+
+BU:                        KS
+
+Site:                      ALL
+Date Printed:              29/09/2021 16:00 hrs
+Printed By:                SEANET MARINE SERVICES PTE LTD SERVICES
+                           PTE LTD                                                                                                 SIGNATORIES:       Subcontractor
+Date Period:               01/09/2021 - 28/09/2021
+Sub Contractor:            SEANET MARINE SERVICES PTE LTD
+PROJECT NAME               T21667 GIMI                                                                                                                 Yard Supervisor
+
+JOB CARD NO                G/00004-B-6-O-605260-8                                JOB CARD TRADE                   POWERTOOL & PAINT
+JOB CARD START DATE        16/03/2021                                            JOB CARD EXPIRY DATE             31/12/2021                           Yard Foreman
+CONTRACT NO                                                                      OFFICER IN-CHARGE                Buddika
+
+DESCRIPTION:               To carry out engine room 1st,2nd,3rd,4th and tank top burn mark electrical and piping support power                         Yard Superintendent
+                           tooling and painting
+
+                                                                              DATE         01/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER         NAME                                NATIONALITY        WORKERS'          SKILL              START              END          MEALS   REMARKS ACTUAL ACCOUNTABLE
+                                                                         TRADE                                                                                 HOURS       HOURS
+G8401155Q         MONDOL SUJAN                        BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      14   17
+                                                                                                              07:30              23:00
+G8816972M         RASID HARUNUR                       BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      14   17
+                                                                                                              07:30              23:00
+G8817902T         YOUNUS                              BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      14   17
+                                                                                                              07:30              23:00
+G8820951L         MONDOL MD ROBBEL                    BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      9    9.5
+                                                                                                              07:30              17:30
+G8834916X         SARDAR TIPON                        BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      14   17
+                                                                                                              07:30              23:00
+G8892516K         ISLAM MAZARUL                       BANGLADESHI Painter                  SEMI SKILLED       01/09/2021         01/09/2021       0                      14   17
+                                                                                                              07:30              23:00
+
+
+
+
+Page 1 of 16
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   01/09/2021   01/09/2021         0               14          17
+                                                                           07:30        23:00
+SUMMARY FOR SHIFT            7                                                                       Total Hours           93        111.5
+
+                                                     DATE   02/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   02/09/2021   02/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0               10          11
+                                                                           07:30        18:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0               10          11
+                                                                           07:30        18:30
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0               10          11
+                                                                           07:30        18:30
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0               10          11
+                                                                           07:30        18:30
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   02/09/2021   02/09/2021         0               10          11
+                                                                           07:30        18:30
+SUMMARY FOR SHIFT            10                                                                      Total Hours           95        102.5
+
+
+
+
+Page 2 of 16
+                                                     DATE   03/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0                6           9
+                                                                           12:08        18:30
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0                6           9
+                                                                           12:07        18:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   03/09/2021   03/09/2021         0               10          13
+                                                                           07:30        18:30
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   03/09/2021   03/09/2021         0                6           9
+                                                                           12:07        18:30
+SUMMARY FOR SHIFT            9                                                                       Total Hours           78         105
+
+                                                     DATE   04/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+Page 3 of 16
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               5.3        10.6
+                                                                           13:11        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               5.3        10.6
+                                                                           13:11        19:00
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   04/09/2021   04/09/2021         0               10          20
+                                                                           07:30        19:00
+SUMMARY FOR SHIFT            10                                                                      Total Hours          90.6       181.3
+
+                                                     DATE   05/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   05/09/2021   05/09/2021         0               10          11
+                                                                           07:30        19:00
+SUMMARY FOR SHIFT            10                                                                      Total Hours           100        110
+
+
+
+
+Page 4 of 16
+                                                     DATE   06/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   06/09/2021   06/09/2021         0               10          11
+                                                                           07:30        19:00
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0               10          11
+                                                                           07:30        19:00
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0                6           7
+                                                                           12:14        19:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0               10          11
+                                                                           07:30        19:00
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   06/09/2021   06/09/2021         0                6           7
+                                                                           12:14        19:00
+SUMMARY FOR SHIFT            7                                                                       Total Hours           62          69
+
+                                                     DATE   07/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               10          11
+                                                                           07:30        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               10          13
+                                                                           12:22        23:00
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               10          11
+                                                                           07:30        19:00
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+Page 5 of 16
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   07/09/2021   07/09/2021         0               10          13
+                                                                           12:22        23:00
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   07/09/2021   07/09/2021         0               14          17
+                                                                           07:30        23:00
+SUMMARY FOR SHIFT            10                                                                      Total Hours           124        150
+
+                                                     DATE   08/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   08/09/2021   08/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0               14          17
+                                                                           07:30        23:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0               14          17
+                                                                           07:30        23:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0               14          17
+                                                                           07:30        23:00
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0               14          17
+                                                                           07:30        23:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0               14          17
+                                                                           07:30        23:00
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   08/09/2021   08/09/2021         0                9          9.5
+                                                                           07:30        17:30
+SUMMARY FOR SHIFT            10                                                                      Total Hours           115       132.5
+
+
+
+
+Page 6 of 16
+                                                     DATE   09/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   09/09/2021   09/09/2021         0               10          11
+                                                                           07:30        18:30
+SUMMARY FOR SHIFT            10                                                                      Total Hours           100        110
+
+                                                     DATE   10/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   10/09/2021   10/09/2021         0                6           9
+                                                                           12:09        19:00
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0                9         11.5
+                                                                           07:30        17:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0               10          13
+                                                                           07:30        19:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0                6           9
+                                                                           12:09        19:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0                5          7.5
+                                                                           12:09        17:30
+Page 7 of 16
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0               10          13
+                                                                           07:30        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0               10          13
+                                                                           07:30        19:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0               10          13
+                                                                           07:30        19:00
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   10/09/2021   10/09/2021         0               10          13
+                                                                           07:30        19:00
+SUMMARY FOR SHIFT            9                                                                       Total Hours           76         102
+
+                                                     DATE   11/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                6          12
+                                                                           12:06        19:00
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                6          12
+                                                                           12:06        19:00
+G8816799L      ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                9          18
+                                                                           07:30        17:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                6          12
+                                                                           12:06        19:00
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0               10          20
+                                                                           07:30        19:00
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0               10          20
+                                                                           07:30        19:00
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                6          12
+                                                                           12:06        19:00
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0                5          10
+                                                                           12:06        17:30
+G8892516K      ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   11/09/2021   11/09/2021         0               10          20
+                                                                           07:30        19:00
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   11/09/2021   11/09/2021         0               10          20
+                                                                           07:30        19:00
+SUMMARY FOR SHIFT            10                                                                      Total Hours           78         156
+
+
+
+
+Page 8 of 16
+                                                     DATE   12/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8104182U      SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   12/09/2021   12/09/2021         0               10          11
+                                                                           07:30        18:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0               10          11
+                                                                           07:30        18:30
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   12/09/2021   12/09/2021         0                9          9.5
+                                                                           07:30        17:30
+SUMMARY FOR SHIFT            8                                                                       Total Hours           74          79
+
+                                                     DATE   13/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER      NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                 TRADE                                                                  HOURS       HOURS
+G8401155Q      MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                           07:30        18:30
+G8816711U      SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8816972M      RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                           07:30        18:30
+G8817902T      YOUNUS              BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0                9          9.5
+                                                                           07:30        17:30
+G8817065U      NAIM MD             BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                           07:30        18:30
+G8834916X      SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                           07:30        18:30
+G8820951L      MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0                9          9.5
+                                                                           07:30        17:30
+Page 9 of 16
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                            07:30        18:30
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   13/09/2021   13/09/2021         0               10          11
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             9                                                                       Total Hours           87         94.5
+
+                                                      DATE   20/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   20/09/2021   20/09/2021         0               10          11
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             10                                                                      Total Hours           100        110
+
+
+
+
+Page 10 of 16
+                                                          DATE      21/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                   NATIONALITY   WORKERS'       SKILL            START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                     TRADE                                                                        HOURS       HOURS
+G8401155Q       MONDOL SUJAN           BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8816711U       SARDER MD HAFIZUL      BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8816972M       RASID HARUNUR          BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8817902T       YOUNUS                 BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8817065U       NAIM MD                BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8834916X       SARDAR TIPON           BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8820951L       MONDOL MD ROBBEL       BANGLADESHI Painter          SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+G8104182U       SHAHADAT               BANGLADESHI Supervisor       SEMI SKILLED     21/09/2021   21/09/2021         0                4           4
+                                                                                     07:30        12:30
+SUMMARY FOR SHIFT            8                                                                                 Total Hours           32          32
+
+                                                          DATE      22/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                   NATIONALITY   WORKERS'       SKILL            START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                     TRADE                                                                        HOURS       HOURS
+G8104182U       SHAHADAT               BANGLADESHI Supervisor       SEMI SKILLED     22/09/2021   22/09/2021         0               10          11
+                                                                                     07:30        18:30
+G2743717L       SRINIVASAN VIJAYARAJ   INDIAN        Helper / General SEMI SKILLED   22/09/2021   22/09/2021         0               10          11
+                                                     Worker                          07:30        18:30
+G3174762M       PERUMAL RAMARAJA       INDIAN        Helper / General SEMI SKILLED   22/09/2021   22/09/2021         0               10          11
+                                                     Worker                          07:30        18:30
+G7109251N       VELU MUTHAIYAN         INDIAN        Supervisor     SKILLED          22/09/2021   22/09/2021         0               10          11
+                                                                                     07:30        18:30
+G8834916X       SARDAR TIPON           BANGLADESHI Painter          SEMI SKILLED     22/09/2021   22/09/2021         0               10          11
+                                                                                     07:30        18:30
+G8817065U       NAIM MD                BANGLADESHI Painter          SEMI SKILLED     22/09/2021   22/09/2021         0               10          11
+                                                                                     07:30        18:30
+G8817902T       YOUNUS                 BANGLADESHI Painter          SEMI SKILLED     22/09/2021   22/09/2021         0               10          11
+                                                                                     07:30        18:30
+Page 11 of 16
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   22/09/2021   22/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   22/09/2021   22/09/2021         0               10          11
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             9                                                                       Total Hours           90          99
+
+                                                      DATE   23/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   23/09/2021   23/09/2021         0               10          11
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             10                                                                      Total Hours           100        110
+
+
+
+
+Page 12 of 16
+                                                      DATE   24/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   24/09/2021   24/09/2021         0                6           9
+                                                                            12:21        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0                6           9
+                                                                            12:21        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0                6           9
+                                                                            12:21        18:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   24/09/2021   24/09/2021         0               10          13
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             10                                                                      Total Hours           88         118
+
+                                                      DATE   25/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0               10          20
+                                                                            07:30        18:30
+Page 13 of 16
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0               10          20
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0                6          12
+                                                                            12:05        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   25/09/2021   25/09/2021         0               10          20
+                                                                            07:30        18:30
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   25/09/2021   25/09/2021         0               10          20
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             10                                                                      Total Hours           76         152
+
+                                                      DATE   26/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   26/09/2021   26/09/2021         0               10          11
+                                                                            07:30        18:30
+SUMMARY FOR SHIFT             10                                                                      Total Hours           100        110
+
+
+
+Page 14 of 16
+                                                      DATE   27/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   27/09/2021   27/09/2021         0                9          9.5
+                                                                            07:30        17:30
+SUMMARY FOR SHIFT             9                                                                       Total Hours           81         85.5
+
+                                                      DATE   28/09/2021
+
+KS-DAY SHIFT A -wef 200801
+
+ID NUMBER       NAME                NATIONALITY   WORKERS'   SKILL          START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                  HOURS       HOURS
+G8892516K       ISLAM MAZARUL       BANGLADESHI Painter      SEMI SKILLED   28/09/2021   28/09/2021         0               5.4         6.4
+                                                                            13:07        18:30
+G8104182U       SHAHADAT            BANGLADESHI Supervisor   SEMI SKILLED   28/09/2021   28/09/2021         0               10          11
+                                                                            07:30        18:30
+G8834916X       SARDAR TIPON        BANGLADESHI Painter      SEMI SKILLED   28/09/2021   28/09/2021         0               10          11
+                                                                            07:30        18:30
+G8820951L       MONDOL MD ROBBEL    BANGLADESHI Painter      SEMI SKILLED   28/09/2021   28/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817065U       NAIM MD             BANGLADESHI Painter      SEMI SKILLED   28/09/2021   28/09/2021         0               10          11
+                                                                            07:30        18:30
+G8817902T       YOUNUS              BANGLADESHI Painter      SEMI SKILLED   28/09/2021   28/09/2021         0               10          11
+                                                                            07:30        18:30
+Page 15 of 16
+ID NUMBER       NAME                NATIONALITY   WORKERS'     SKILL            START        END          MEALS     REMARKS ACTUAL ACCOUNTABLE
+                                                  TRADE                                                                      HOURS       HOURS
+G8816799L       ISLAM DIDAR         BANGLADESHI Painter        SEMI SKILLED     28/09/2021   28/09/2021         0               10          11
+                                                                                07:30        18:30
+G8816972M       RASID HARUNUR       BANGLADESHI Painter        SEMI SKILLED     28/09/2021   28/09/2021         0               10          11
+                                                                                07:30        18:30
+G8401155Q       MONDOL SUJAN        BANGLADESHI Painter        SEMI SKILLED     28/09/2021   28/09/2021         0               10          11
+                                                                                07:30        18:30
+G8816711U       SARDER MD HAFIZUL   BANGLADESHI Painter        SEMI SKILLED     28/09/2021   28/09/2021         0               10          11
+                                                                                07:30        18:30
+SUMMARY FOR SHIFT             10                                                                          Total Hours          95.4       105.4
+
+SUBTOTAL FOR DAY SHIFT        205
+
+SUBTOTAL FOR NIGHT SHIFT      0
+
+SUMMARY FOR JOB CARD          205                                                                         Grand Total Hours    1935      2425.1
+ATTENDANCE
+                                                          ***END OF REPORT***
+
+
+
+
+Page 16 of 16
+

@@ -1,0 +1,8 @@
+ID_NUMBER,     NAME,               NATIONALITY,   WORKERS'TRADE,     SKILL,            START,        END,          MEALS,     REMARKS, ACTUAL HOURS, ACCOUNTABLE HOURS
+G8401155Q        ,MONDOL SUJAN                       ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8816972M        ,RASID HARUNUR                      ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8817902T        ,YOUNUS                             ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8820951L    ,MONDOL MD ROBBEL  ,BANGLADESHI,Painter       ,SEMI SKILLED    ,01/09/2021  ,01/09/2021  ,      0  ,         ,   9  ,       9.5
+G8834916X    ,SARDAR TIPON      ,BANGLADESHI,Painter       ,SEMI SKILLED    ,01/09/2021  ,01/09/2021  ,      0  ,         ,  14  ,       17
+G8892516K    ,ISLAM MAZARUL     ,BANGLADESHI,Painter       ,SEMI SKILLED    ,01/09/2021  ,01/09/2021  ,      0  ,         ,  14  ,       17
+G8104182U    ,SHAHADAT          ,BANGLADESHI,Supervisor    ,SEMI SKILLED    ,01/09/2021  ,01/09/2021  ,      0  ,         ,  14  ,       17

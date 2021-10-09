@@ -1,0 +1,206 @@
+ID_NUMBER,       NAME,                NATIONALITY,   WORKERS'TRADE,     SKILL,            START,        END,          MEALS,     REMARKS, ACTUAL HOURS, ACCOUNTABLE HOURS
+G8401155Q        ,MONDOL SUJAN                       ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8816972M        ,RASID HARUNUR                      ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8817902T        ,YOUNUS                             ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8820951L        ,MONDOL MD ROBBEL                   ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    9 ,  9.5
+G8834916X        ,SARDAR TIPON                       ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8892516K        ,ISLAM MAZARUL                      ,BANGLADESHI,Painter                 ,SEMI SKILLED      ,01/09/2021        ,01/09/2021  ,    0  ,              ,    14,  17
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,01/09/2021  ,01/09/2021  ,      0  ,         ,  14  ,       17
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,   9  ,       9.5
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,   9  ,       9.5
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,02/09/2021  ,02/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,   6  ,        9
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,   6  ,        9
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,  10  ,       13
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,03/09/2021  ,03/09/2021  ,      0  ,         ,   6  ,        9
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  5.3 ,      10.6
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  5.3 ,      10.6
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,04/09/2021  ,04/09/2021  ,      0  ,         ,  10  ,       20
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,05/09/2021  ,05/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,   6  ,        7
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,06/09/2021  ,06/09/2021  ,      0  ,         ,   6  ,        7
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  10  ,       13
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  10  ,       13
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,07/09/2021  ,07/09/2021  ,      0  ,         ,  14  ,       17
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,   9  ,       9.5
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,   9  ,       9.5
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,   9  ,       9.5
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,  14  ,       17
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,  14  ,       17
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,  14  ,       17
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,  14  ,       17
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,  14  ,       17
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,08/09/2021  ,08/09/2021  ,      0  ,         ,   9  ,       9.5
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,09/09/2021  ,09/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,   6  ,        9
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,   9  ,      11.5
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,  10  ,       13
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,   6  ,        9
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,   5  ,       7.5
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,  10  ,       13
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,  10  ,       13
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,  10  ,       13
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,10/09/2021  ,10/09/2021  ,      0  ,         ,  10  ,       13
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   6  ,       12
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   6  ,       12
+G8816799L     ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   9  ,       18
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   6  ,       12
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,  10  ,       20
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,  10  ,       20
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   6  ,       12
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,   5  ,       10
+G8892516K     ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,  10  ,       20
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,11/09/2021  ,11/09/2021  ,      0  ,         ,  10  ,       20
+G8104182U     ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,12/09/2021  ,12/09/2021  ,      0  ,         ,   9  ,       9.5
+G8401155Q     ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U     ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816972M     ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T     ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817065U     ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X     ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L     ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,   9  ,       9.5
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,13/09/2021  ,13/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,20/09/2021  ,20/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q      ,MONDOL SUJAN          ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8816711U      ,SARDER MD HAFIZUL     ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8816972M      ,RASID HARUNUR         ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8817902T      ,YOUNUS                ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8817065U      ,NAIM MD               ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8834916X      ,SARDAR TIPON          ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8820951L      ,MONDOL MD ROBBEL      ,BANGLADESHI,Painter         ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8104182U      ,SHAHADAT              ,BANGLADESHI,Supervisor      ,SEMI SKILLED    ,21/09/2021  ,21/09/2021  ,      0  ,         ,   4  ,        4
+G8104182U      ,SHAHADAT              ,BANGLADESHI,Supervisor      ,SEMI SKILLED    ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G2743717L      ,SRINIVASAN VIJAYARAJ  ,INDIAN     ,  Helper /,General SEMI SKILLED  ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G3174762M      ,PERUMAL RAMARAJA      ,INDIAN     ,  Helper /,General SEMI SKILLED  ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G7109251N      ,VELU MUTHAIYAN        ,INDIAN     ,  Supervisor    ,SKILLED         ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X      ,SARDAR TIPON          ,BANGLADESHI,Painter         ,SEMI SKILLED    ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U      ,NAIM MD               ,BANGLADESHI,Painter         ,SEMI SKILLED    ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T      ,YOUNUS                ,BANGLADESHI,Painter         ,SEMI SKILLED    ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,22/09/2021  ,22/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,23/09/2021  ,23/09/2021  ,      0  ,         ,  10  ,       11
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,   6  ,        9
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,   6  ,        9
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,   6  ,        9
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,24/09/2021  ,24/09/2021  ,      0  ,         ,  10  ,       13
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,  10  ,       20
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,  10  ,       20
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,   6  ,       12
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,  10  ,       20
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,25/09/2021  ,25/09/2021  ,      0  ,         ,  10  ,       20
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,26/09/2021  ,26/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,27/09/2021  ,27/09/2021  ,      0  ,         ,   9  ,       9.5
+G8892516K      ,ISLAM MAZARUL      ,BANGLADESHI,Painter     ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  5.4 ,       6.4
+G8104182U      ,SHAHADAT           ,BANGLADESHI,Supervisor  ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8834916X      ,SARDAR TIPON       ,BANGLADESHI,Painter     ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8820951L      ,MONDOL MD ROBBEL   ,BANGLADESHI,Painter     ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8817065U      ,NAIM MD            ,BANGLADESHI,Painter     ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8817902T      ,YOUNUS             ,BANGLADESHI,Painter     ,SEMI SKILLED  ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8816799L      ,ISLAM DIDAR        ,BANGLADESHI,Painter       ,SEMI SKILLED    ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8816972M      ,RASID HARUNUR      ,BANGLADESHI,Painter       ,SEMI SKILLED    ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8401155Q      ,MONDOL SUJAN       ,BANGLADESHI,Painter       ,SEMI SKILLED    ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
+G8816711U      ,SARDER MD HAFIZUL  ,BANGLADESHI,Painter       ,SEMI SKILLED    ,28/09/2021  ,28/09/2021  ,      0  ,         ,  10  ,       11
