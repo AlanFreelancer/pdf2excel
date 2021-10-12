@@ -15,7 +15,7 @@ pdf_path = os.path.join(working_dir, "sample_pdf_data", "01 09 2021 to 28 09 202
 # https://blog.alivate.com.au/poppler-windows/
 poppler_path = os.path.join(working_dir, "poppler-0.68.0", "bin", "pdftotext.exe")
 
-version = 'v1.0-BETA - 09/10/2021'
+version = 'v1.0-BETA1 - 12/10/2021'
 copy_right = 'Developed by Sigma2k Technology Pte Ltd'
 
 
@@ -88,8 +88,8 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
             data[i] = line
         elif 'TRADE' in line and 'HOURS' in line:
             line_need_remove.append(i)
-        elif line.count(':') == 2:
-            line_need_remove.append(i)
+        # elif line.count(':') == 2:
+        #     line_need_remove.append(i)
         elif line.isspace():
             line_need_remove.append(i)
         elif 'SUMMARY FOR SHIFT' in line:
@@ -136,7 +136,7 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
     # generate CSV file
     headers = ['ID_NUMBER', 'NAME', 'NATIONALITY', "WORKERS'", 'SKILL', 'START', 'END', 'MEALS', 'REMARKS', 'ACTUAL',
                'ACCOUNTABLE']
-    h_index = []
+    h_index = []    # [0, 18, 54, 66, 91, 110, 129, 142, 150, 165, 172]
     line_need_remove = []
     first_header = False
     header_str = ''
@@ -173,7 +173,15 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
                     h_idx = tmp_line.index(h) + len(h)
                     tmp_line = tmp_line[:h_idx] + ',' + tmp_line[h_idx:]
             header_str = tmp_line
-        else:
+        elif line.count(':') != 2:
+            # get Start and End Time
+            next_line = data[i+1]
+            idx_start_time = headers.index('START')
+            idx_end_time = headers.index('END')
+            str_start_time = next_line[h_index[idx_start_time]:h_index[idx_end_time]]
+            str_end_time = next_line[h_index[idx_end_time]:h_index[idx_end_time+1]]
+            line_need_remove.append(i+1)
+
             task_list.append(task_name.replace('\n', '').strip())
             length = len(line)
             new_line = ''
@@ -190,7 +198,12 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
                     # if is_space:
                     #     item_data = item_data[::-1].replace('  ', 'N,', 1)[::-1]
                     # else:
-                    item_data = item_data[::-1].replace(' ', ',', 1)[::-1]
+                    add_data = ','
+                    if idx == idx_start_time:
+                        add_data = f'{add_data}{str_start_time.strip()[::-1]} '
+                    elif idx == idx_end_time:
+                        add_data = f'{add_data}{str_end_time.strip()[::-1]} '
+                    item_data = item_data[::-1].replace(' ', add_data, 1)[::-1]
                     # logger.debug(len(item_data))
                 # logger.debug(item_data)
                 new_line += item_data
@@ -234,14 +247,15 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
     df.insert(4, 'TASK', task_list)
 
     df.to_csv(os.path.join(result_folder, f"{file_name}.csv"))
-    # Create a Pandas Excel writer using XlsxWriter as the engine.
-    writer = pd.ExcelWriter(os.path.join(result_folder, f'{file_name}.xlsx'), engine='xlsxwriter')
 
-    # Convert the dataframe to an XlsxWriter Excel object.
-    df.to_excel(writer, sheet_name='Sheet1')
-
-    # Close the Pandas Excel writer and output the Excel file.
-    writer.save()
+    # # Create a Pandas Excel writer using XlsxWriter as the engine.
+    # writer = pd.ExcelWriter(os.path.join(result_folder, f'{file_name}.xlsx'), engine='xlsxwriter')
+    #
+    # # Convert the dataframe to an XlsxWriter Excel object.
+    # df.to_excel(writer, sheet_name='Sheet1')
+    #
+    # # Close the Pandas Excel writer and output the Excel file.
+    # writer.save()
     logger.debug(df)
 
 class MainGUI:
@@ -329,7 +343,7 @@ class MainGUI:
                     if not os.path.isfile(file):
                         sg.popup_error(f'Not File\n\n{file}\n\nContinue with other files...')
                         continue
-                    poppler_pdf_to_text(file, )
+                    poppler_pdf_to_text(file, result_folder)
                 sg.popup_ok('Complete')
         window.close()
 
