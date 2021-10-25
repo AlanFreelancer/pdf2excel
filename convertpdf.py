@@ -15,7 +15,7 @@ pdf_path = os.path.join(working_dir, "sample_pdf_data", "01 09 2021 to 28 09 202
 # https://blog.alivate.com.au/poppler-windows/
 poppler_path = os.path.join(working_dir, "poppler-0.68.0", "bin", "pdftotext.exe")
 
-version = 'v1.0-BETA1 - 12/10/2021'
+version = 'v1.0-BETA2 - 24/10/2021'
 copy_right = 'Developed by Sigma2k Technology Pte Ltd'
 
 
@@ -246,7 +246,11 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
         idx += 1
     df.insert(4, 'TASK', task_list)
 
-    df.to_csv(os.path.join(result_folder, f"{file_name}.csv"))
+    df['START'] = pd.to_datetime(df['START'], format='%d/%m/%Y %H:%M').dt.strftime('%m/%d/%Y %H:%M')
+    df['END'] = pd.to_datetime(df['END'], format='%d/%m/%Y %H:%M').dt.strftime('%m/%d/%Y %H:%M')
+    headers = ['NAME', 'START', 'END']
+
+    df.to_csv(os.path.join(result_folder, f"{file_name}.csv"), columns=headers, index=False)
 
     # # Create a Pandas Excel writer using XlsxWriter as the engine.
     # writer = pd.ExcelWriter(os.path.join(result_folder, f'{file_name}.xlsx'), engine='xlsxwriter')
