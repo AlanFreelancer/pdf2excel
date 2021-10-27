@@ -15,7 +15,7 @@ pdf_path = os.path.join(working_dir, "sample_pdf_data", "01 09 2021 to 28 09 202
 # https://blog.alivate.com.au/poppler-windows/
 poppler_path = os.path.join(working_dir, "poppler-0.68.0", "bin", "pdftotext.exe")
 
-version = 'v1.0-BETA2 - 24/10/2021'
+version = 'v1.1 - 27/10/2021'
 copy_right = 'Developed by Sigma2k Technology Pte Ltd'
 
 
@@ -176,6 +176,12 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
         elif line.count(':') != 2:
             # get Start and End Time
             next_line = data[i+1]
+            idx_name = headers.index('NAME')
+            idx_national = headers.index('NATIONALITY')
+            str_name = next_line[h_index[idx_name]:h_index[idx_national]].strip()   # 01 10 2021.pdf
+            # if 'THIRUNAVUKKARASU' in str_name:
+            #     print('debug')
+
             idx_start_time = headers.index('START')
             idx_end_time = headers.index('END')
             str_start_time = next_line[h_index[idx_start_time]:h_index[idx_end_time]]
@@ -203,6 +209,9 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
                         add_data = f'{add_data}{str_start_time.strip()[::-1]} '
                     elif idx == idx_end_time:
                         add_data = f'{add_data}{str_end_time.strip()[::-1]} '
+                    elif idx == idx_name:
+                        add_data = f'{add_data} {str_name.strip()[::-1]} '
+                    item_data = f"{item_data.strip()} "
                     item_data = item_data[::-1].replace(' ', add_data, 1)[::-1]
                     # logger.debug(len(item_data))
                 # logger.debug(item_data)
@@ -248,7 +257,7 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
 
     df['START'] = pd.to_datetime(df['START'], format='%d/%m/%Y %H:%M').dt.strftime('%m/%d/%Y %H:%M')
     df['END'] = pd.to_datetime(df['END'], format='%d/%m/%Y %H:%M').dt.strftime('%m/%d/%Y %H:%M')
-    headers = ['NAME', 'START', 'END']
+    headers = ['ID_NUMBER', 'NAME', 'START', 'END']
 
     df.to_csv(os.path.join(result_folder, f"{file_name}.csv"), columns=headers, index=False)
 
@@ -256,7 +265,7 @@ def poppler_pdf_to_text(pdf_file=pdf_path, result_folder=working_dir):
     # writer = pd.ExcelWriter(os.path.join(result_folder, f'{file_name}.xlsx'), engine='xlsxwriter')
     #
     # # Convert the dataframe to an XlsxWriter Excel object.
-    # df.to_excel(writer, sheet_name='Sheet1')
+    # df.to_excel(writer, sheet_name='Sheet1', columns=headers, index=False)
     #
     # # Close the Pandas Excel writer and output the Excel file.
     # writer.save()
